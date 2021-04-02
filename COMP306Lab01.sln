@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP306Lab01Ex01_UploadFileToS3Bucket", "COMP306Lab01Ex01\COMP306Lab01Ex01_UploadFileToS3Bucket.csproj", "{F35BDFC5-66D1-471D-90D0-DDC347B5F1B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35BDFC5-66D1-471D-90D0-DDC347B5F1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35BDFC5-66D1-471D-90D0-DDC347B5F1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35BDFC5-66D1-471D-90D0-DDC347B5F1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35BDFC5-66D1-471D-90D0-DDC347B5F1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC0DEA9-D8C1-4908-88EF-4481B044C6BC}
+	EndGlobalSection
+EndGlobal
